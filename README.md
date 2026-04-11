@@ -61,20 +61,6 @@
 
 <br/>
 
-<!-- TROPHIES -->
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=500&size=22&duration=2000&pause=3000&color=C9A84C&center=true&vCenter=true&repeat=false&width=200&height=35&lines=Tr%C3%B3fe%C3%A1k" alt="Trófeák" />
-
-<br/><br/>
-
-<img src="https://trophy.ryglcloud.net/?username=Puncsika&theme=darkhub&no-bg=true&no-frame=true&column=4&title=Commits,Repositories,Stars,Followers" alt="Trophies" />
-
-</div>
-
-<br/>
-
 <!-- GITHUB STATS -->
 
 <div align="center">
