@@ -4,9 +4,8 @@
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/agostongergo.com-C9A84C?style=for-the-badge&logo=googlechrome&logoColor=0a0806)](https://agostongergo.com)&nbsp;
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-15110d?style=for-the-badge&logo=linkedin&logoColor=C9A84C)](https://linkedin.com/in/)&nbsp;
-[![GitHub](https://img.shields.io/badge/GitHub-15110d?style=for-the-badge&logo=github&logoColor=C9A84C)](https://github.com/Puncsika)
+[![Portfolio](https://img.shields.io/badge/agostongergo.com-C9A84C?style=for-the-badge&logoColor=0a0806)](https://agostongergo.com)&nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-15110d?style=for-the-badge&logo=linkedin&logoColor=C9A84C)](https://linkedin.com/in/ágoston-gergő-curved)
 
 </div>
 
@@ -34,35 +33,25 @@
 
 **Frontend**
 
-<table>
-  <tr>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=html&theme=dark" width="48" /><br/><sub>HTML</sub></td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=css&theme=dark" width="48" /><br/><sub>CSS</sub></td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=js&theme=dark" width="48" /><br/><sub>JavaScript</sub></td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=react&theme=dark" width="48" /><br/><sub>React</sub></td>
-  </tr>
-</table>
+<a href="#"><img src="https://skillicons.dev/icons?i=html,css,js,react&theme=dark" alt="Frontend" /></a>
+<br/>
+<sub>HTML &nbsp;·&nbsp; CSS &nbsp;·&nbsp; JavaScript &nbsp;·&nbsp; React</sub>
+
+<br/>
 
 **Backend**
 
-<table>
-  <tr>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=nodejs&theme=dark" width="48" /><br/><sub>Node.js</sub></td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=cs&theme=dark" width="48" /><br/><sub>C#</sub></td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=postgresql&theme=dark" width="48" /><br/><sub>SQL</sub></td>
-  </tr>
-</table>
+<a href="#"><img src="https://skillicons.dev/icons?i=nodejs,cs,postgresql&theme=dark" alt="Backend" /></a>
+<br/>
+<sub>Node.js &nbsp;·&nbsp; C# &nbsp;·&nbsp; SQL</sub>
+
+<br/>
 
 **Eszközök**
 
-<table>
-  <tr>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=git&theme=dark" width="48" /><br/><sub>Git</sub></td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=figma&theme=dark" width="48" /><br/><sub>Figma</sub></td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=photoshop&theme=dark" width="48" /><br/><sub>Photoshop</sub></td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=illustrator&theme=dark" width="48" /><br/><sub>Illustrator</sub></td>
-  </tr>
-</table>
+<a href="#"><img src="https://skillicons.dev/icons?i=git,figma,photoshop,illustrator&theme=dark" alt="Eszközök" /></a>
+<br/>
+<sub>Git &nbsp;·&nbsp; Figma &nbsp;·&nbsp; Photoshop &nbsp;·&nbsp; Illustrator</sub>
 
 </div>
 
