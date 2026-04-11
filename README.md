@@ -1,12 +1,6 @@
 <div align="center">
 
-<img src="assets/banner.png" width="100%" alt="banner" />
-
-<br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=600&size=40&duration=3000&pause=1000&color=C9A84C&center=true&vCenter=true&repeat=false&width=500&height=70&lines=%C3%81goston+Gerg%C5%91" alt="Ágoston Gergő" />
-
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=300&size=16&duration=3000&pause=2000&color=9A917F&center=true&vCenter=true&repeat=false&width=520&height=28&lines=Full-Stack+Fejleszt%C5%91+%7C+Kreat%C3%ADv+Probl%C3%A9mamegold%C3%B3" alt="Full-Stack Fejlesztő | Kreatív Problémamegoldó" />
+<img src="assets/banner.png" width="100%" alt="Ágoston Gergő — Full-Stack Fejlesztő | Kreatív Problémamegoldó" />
 
 <br/>
 
