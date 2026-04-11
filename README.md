@@ -57,11 +57,11 @@
 <br/><br/>
 
 <a href="https://github.com/Puncsika">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Puncsika&show_icons=true&hide_border=true&title_color=C9A84C&icon_color=C9A84C&text_color=9a917f&bg_color=0a0806" alt="GitHub Stats" />
+  <img height="180" src="https://github-stats-extended.vercel.app/api?username=Puncsika&show_icons=true&hide_border=true&title_color=C9A84C&icon_color=C9A84C&text_color=9a917f&bg_color=0a0806" alt="GitHub Stats" />
 </a>
 &nbsp;&nbsp;
 <a href="https://github.com/Puncsika">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Puncsika&layout=compact&hide_border=true&title_color=C9A84C&text_color=9a917f&bg_color=0a0806" alt="Top Languages" />
+  <img height="180" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Puncsika&layout=compact&hide_border=true&title_color=C9A84C&text_color=9a917f&bg_color=0a0806" alt="Top Languages" />
 </a>
 
 <br/><br/>
