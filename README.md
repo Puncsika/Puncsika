@@ -34,23 +34,15 @@
 
 **Frontend**
 
-![HTML](https://img.shields.io/badge/HTML-15110d?style=for-the-badge&logo=html5&logoColor=E34F26)
-![CSS](https://img.shields.io/badge/CSS-15110d?style=for-the-badge&logo=css3&logoColor=1572B6)
-![JavaScript](https://img.shields.io/badge/JavaScript-15110d?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![React](https://img.shields.io/badge/React-15110d?style=for-the-badge&logo=react&logoColor=61DAFB)
+<a href="#"><img src="https://skillicons.dev/icons?i=html,css,js,react&theme=dark" alt="Frontend" /></a>
 
 **Backend**
 
-![Node.js](https://img.shields.io/badge/Node.js-15110d?style=for-the-badge&logo=nodedotjs&logoColor=339933)
-![C#](https://img.shields.io/badge/C%23-15110d?style=for-the-badge&logo=csharp&logoColor=512BD4)
-![SQL](https://img.shields.io/badge/SQL-15110d?style=for-the-badge&logo=postgresql&logoColor=4169E1)
+<a href="#"><img src="https://skillicons.dev/icons?i=nodejs,cs,postgresql&theme=dark" alt="Backend" /></a>
 
 **Eszközök**
 
-![Git](https://img.shields.io/badge/Git-15110d?style=for-the-badge&logo=git&logoColor=F05032)
-![Figma](https://img.shields.io/badge/Figma-15110d?style=for-the-badge&logo=figma&logoColor=F24E1E)
-![Photoshop](https://img.shields.io/badge/Photoshop-15110d?style=for-the-badge&logo=adobephotoshop&logoColor=31A8FF)
-![Illustrator](https://img.shields.io/badge/Illustrator-15110d?style=for-the-badge&logo=adobeillustrator&logoColor=FF9A00)
+<a href="#"><img src="https://skillicons.dev/icons?i=git,figma,photoshop,illustrator&theme=dark" alt="Eszközök" /></a>
 
 </div>
 
