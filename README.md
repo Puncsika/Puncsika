@@ -69,7 +69,7 @@
 
 <br/><br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=Puncsika&theme=darkhub&no-bg=true&no-frame=true&column=4&title=Commits,Repositories,Stars,Followers" alt="Trophies" />
+<img src="https://trophy.ryglcloud.net/?username=Puncsika&theme=darkhub&no-bg=true&no-frame=true&column=4&title=Commits,Repositories,Stars,Followers" alt="Trophies" />
 
 </div>
 
