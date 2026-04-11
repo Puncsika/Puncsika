@@ -18,8 +18,8 @@ jobs:
         with:
           github_user_name: Puncsika
           outputs: |
-            dist/github-snake.svg
-            dist/github-snake-dark.svg?palette=github-dark
+            dist/github-snake.svg?color_snake=#c9a84c&color_dots=#0a0806,#15110d,#8b7634,#c9a84c,#dfc06a
+            dist/github-snake-dark.svg?color_snake=#c9a84c&color_dots=#0a0806,#15110d,#8b7634,#c9a84c,#dfc06a
 
       - name: Push to output branch
         run: |
