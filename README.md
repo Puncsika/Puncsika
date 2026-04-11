@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/banner.png" width="100%" alt="Ágoston Gergő — Full-Stack Fejlesztő | Kreatív Problémamegoldó" />
+<img src="assets/hero.png" width="100%" alt="Ágoston Gergő — Full-Stack Fejlesztő | Kreatív Problémamegoldó" />
 
 <br/>
 
