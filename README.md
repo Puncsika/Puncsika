@@ -34,15 +34,35 @@
 
 **Frontend**
 
-<a href="#"><img src="https://skillicons.dev/icons?i=html,css,js,react&theme=dark" alt="Frontend" /></a>
+<table>
+  <tr>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=html&theme=dark" width="48" /><br/><sub>HTML</sub></td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=css&theme=dark" width="48" /><br/><sub>CSS</sub></td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=js&theme=dark" width="48" /><br/><sub>JavaScript</sub></td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=react&theme=dark" width="48" /><br/><sub>React</sub></td>
+  </tr>
+</table>
 
 **Backend**
 
-<a href="#"><img src="https://skillicons.dev/icons?i=nodejs,cs,postgresql&theme=dark" alt="Backend" /></a>
+<table>
+  <tr>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=nodejs&theme=dark" width="48" /><br/><sub>Node.js</sub></td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=cs&theme=dark" width="48" /><br/><sub>C#</sub></td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=postgresql&theme=dark" width="48" /><br/><sub>SQL</sub></td>
+  </tr>
+</table>
 
 **Eszközök**
 
-<a href="#"><img src="https://skillicons.dev/icons?i=git,figma,photoshop,illustrator&theme=dark" alt="Eszközök" /></a>
+<table>
+  <tr>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=git&theme=dark" width="48" /><br/><sub>Git</sub></td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=figma&theme=dark" width="48" /><br/><sub>Figma</sub></td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=photoshop&theme=dark" width="48" /><br/><sub>Photoshop</sub></td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=illustrator&theme=dark" width="48" /><br/><sub>Illustrator</sub></td>
+  </tr>
+</table>
 
 </div>
 
@@ -77,7 +97,7 @@
 <!-- SNAKE -->
 
 <div align="center">
-  <img width="700" src="https://github.com/Puncsika/Puncsika/blob/output/github-snake-dark.svg" alt="Snake animation" />
+  <img width="700" src="https://raw.githubusercontent.com/Puncsika/Puncsika/output/github-snake-dark.svg" alt="Snake animation" />
 </div>
 
 <br/>
