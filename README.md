@@ -1,16 +1,25 @@
-## Hi there 👋
+<h1 align="center">Szia, Gergő vagyok 👋</h1>
 
-<!--
-**Puncsika/Puncsika** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  Termékfelelős • Üzemmérnök hallgató • Node.js / React
+</p>
 
-Here are some ideas to get you started:
+## Rólam
+- ERP, belső eszközök és automatizálás
+- PDF generálás, scraping, frontend
+- Egyetemi projektek és saját fejlesztések
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Kiemelt projektek
+- [Önéletrajz oldal](https://...)
+- [PDF generátor](https://...)
+- [GitHub Pages oldal](https://...)
+
+<details>
+<summary>Tech stack</summary>
+
+- JavaScript / Node.js
+- React
+- SQL
+- Git / GitHub
+
+</details>
