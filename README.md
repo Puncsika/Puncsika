@@ -101,11 +101,6 @@
 
 <br/>
 
-<!-- SNAKE -->
-
-<div align="center">
-  <img width="700" src="https://raw.githubusercontent.com/Puncsika/Puncsika/output/github-snake-dark.svg" alt="Snake animation" />
-</div>
 
 <br/>
 
