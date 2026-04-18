@@ -61,44 +61,6 @@
 
 <br/>
 
-<!-- GITHUB STATS -->
-
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0a0806&height=1&section=header" width="100%" />
-</div>
-
-<br/>
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=500&size=22&duration=2000&pause=3000&color=C9A84C&center=true&vCenter=true&repeat=false&width=300&height=35&lines=GitHub+Statisztik%C3%A1k" alt="GitHub Statisztikák" />
-
-<br/><br/>
-
-<a href="https://github.com/Puncsika">
-  <img height="180" src="https://github-stats-extended.vercel.app/api?username=Puncsika&show_icons=true&hide_border=true&title_color=C9A84C&icon_color=C9A84C&text_color=9a917f&bg_color=0a0806" alt="GitHub Stats" />
-</a>
-&nbsp;&nbsp;
-<a href="https://github.com/Puncsika">
-  <img height="180" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Puncsika&layout=compact&hide_border=true&title_color=C9A84C&text_color=9a917f&bg_color=0a0806" alt="Top Languages" />
-</a>
-
-<br/><br/>
-
-<a href="https://github.com/Puncsika">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Puncsika&hide_border=true&ring=C9A84C&fire=C9A84C&currStreakLabel=C9A84C&sideLabels=9a917f&currStreakNum=e8e0d4&sideNums=e8e0d4&dates=6b6355&background=0a0806" alt="GitHub Streak" />
-</a>
-
-</div>
-
-<br/>
-
-<!-- ACTIVITY GRAPH -->
-
-<div align="center">
-  <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=Puncsika&bg_color=0a0806&color=9a917f&line=c9a84c&point=dfc06a&area=true&area_color=c9a84c&hide_border=true&custom_title=Hozz%C3%A1j%C3%A1rul%C3%A1sok" alt="Activity Graph" />
-</div>
-
 <br/>
 
 
